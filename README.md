@@ -1,6 +1,5 @@
-# Dominos Pizza UI Redesgin
+# Project Flutter Mobile App
 
-project proto privat buat acak2
 
 ## Getting Started
 
